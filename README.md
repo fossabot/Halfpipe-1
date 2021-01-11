@@ -2,6 +2,7 @@ Welcome to ENIGMA `HALFpipe`
 ============================
 
 [![https://www.singularity-hub.org/static/img/hosted-singularity--hub-%23e32929.svg](https://www.singularity-hub.org/static/img/hosted-singularity--hub-%23e32929.svg)](https://singularity-hub.org/collections/4508) [![https://img.shields.io/docker/cloud/build/mindandbrain/halfpipe](https://img.shields.io/docker/cloud/build/mindandbrain/halfpipe)](https://hub.docker.com/repository/docker/mindandbrain/halfpipe/tags?ordering=last_updated) [![https://github.com/mindandbrain/halfpipe/workflows/continuous%20integration/badge.svg](https://github.com/mindandbrain/halfpipe/workflows/continuous%20integration/badge.svg)](https://github.com/mindandbrain/halfpipe/actions?query=workflow%3A%22continuous+integration%22) [![codecov](https://codecov.io/gh/mindandbrain/halfpipe/branch/master/graph/badge.svg)](https://codecov.io/gh/mindandbrain/halfpipe)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FHippocampusGirl%2FHalfpipe.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FHippocampusGirl%2FHalfpipe?ref=badge_shield)
 
 `HALFpipe` is a user-friendly software that facilitates reproducible analysis of
 fMRI data, including preprocessing, single-subject, and group analysis. It provides
@@ -465,3 +466,7 @@ For questions or support, please submit an [issue](https://github.com/mindandbra
 | Lea Waller  | Developer       | lea.waller@charite.de  |
 | Ilya Veer   | Project manager | ilya.veer@charite.de   |
 | Susanne Erk | Project manager | susanne.erk@charite.de |
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FHippocampusGirl%2FHalfpipe.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FHippocampusGirl%2FHalfpipe?ref=badge_large)
